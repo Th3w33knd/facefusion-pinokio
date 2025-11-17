@@ -1,5 +1,5 @@
-FaceFusion Pinokio
-==================
+FaceFusion Pinokio 3.5.0
+========================
 
 > Industry leading face manipulation platform.
 
